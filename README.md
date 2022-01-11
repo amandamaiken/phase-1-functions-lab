@@ -78,8 +78,8 @@ function distanceFromHqInFeet(someValue) {
   `'cannot travel that far'` if a ride over 2500 feet is requested.
 
   ```js
-  function calculatesFarePrice(start, destination) {
-    //returns the fare for the customer
+  function calculatesFarePrice( start, destination) {
+    
   }
   ```
 
